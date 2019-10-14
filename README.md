@@ -1,0 +1,2 @@
+# piezobuzzer CODE
+A piezo buzzer is a type of electronic device that is used to produce a tone or sound.A piezo buzzer can produce different sounds or tones on different voltages.A piezo buzzer has two terminals one is positive and another is negative.In this project the piezo buzzer positive terminal is connected to the ardunio PWM pin and negative terminal of piezo buzzer is connected to the ardunio GND pin .So in this way we connect the piezo buzzer to the ardunio and produce different sounds or tones .The code file of piezobuzzer is in (.ino) extension.
